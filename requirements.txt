@@ -1,0 +1,9 @@
+bettercam
+colorama
+requests
+keyboard
+numpy
+opencv-python<5
+psutil
+pyarmor
+pywin32
