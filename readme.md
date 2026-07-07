@@ -1,3 +1,7 @@
+# `AlphaOne, by ZhK`
+`THIS PROJECT IS NOT LICENSED` 
+
+![logo](https://github.com/user-attachments/assets/85ceace3-4eee-4ef9-b0b1-23a922a65a61)
 
 # AlphaOne | Neuronal-python-bot-for-Fortnite-Festival-AutoPlayer
 
