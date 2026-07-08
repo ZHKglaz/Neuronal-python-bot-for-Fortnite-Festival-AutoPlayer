@@ -17,7 +17,7 @@
     "diamond_tile_min_confidence": 0.95,
     
     "console_window_ontop": "true",
-    "capture_fps": 200,
+    "capture_fps": 140,
 
     "always_single_lanemode": "true",
     "single_lanemode_lanes": 5,
