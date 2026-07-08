@@ -12,10 +12,8 @@ import win32api
 import win32gui
 import win32con
 
-# Set console title
 os.system("title AlphaOne Autoplayer Console")
 
-# Clear the console
 def cls():
     os.system('cls' if os.name == 'nt' else 'clear')
 cls()
