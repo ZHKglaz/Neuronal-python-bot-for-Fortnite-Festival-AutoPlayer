@@ -8,7 +8,7 @@
 An python trained neuronal bot for autoplaying any kind of instrument in fortnite Festival
 
 ## Settings
-- Use Python between 3.10.6 - 3.11
+- Use Python between 3.10.6 - 3.11.9
 - Play Fortnite on windowed fullscreen, and preferably low quality rendering mode (this makes brightness match with what the match images use)
 
 ## How to USE
