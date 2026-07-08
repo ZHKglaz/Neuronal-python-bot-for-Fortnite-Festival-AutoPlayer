@@ -38,8 +38,6 @@ if exist requirements.txt (
     echo No dependencies automatically installed.
 )
 
-clear
-
 echo.
 echo ============================================
 echo   Installation complete!
